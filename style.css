@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+.arr{
+    margin: auto;
+}
+
+.seat {
+    font-size: x-large;
+    color: #000;
+    padding: 50px;
+}
+
+.header {
+    color: orange;
+    font-weight: 900;
+}
+
+.juafont {
+    font-family: 'Jua', sans-serif;
+}
